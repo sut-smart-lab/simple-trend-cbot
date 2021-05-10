@@ -1,0 +1,1 @@
+# simple-trend-cbot
